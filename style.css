@@ -10,6 +10,7 @@ header{
     text-align: center;
     padding: 2em;
     color: rgb(209, 204, 183);
+    line-height: 2em;
 }
 h3{
     font-style: normal;
@@ -27,6 +28,7 @@ div.skill{
 }
 .edu{
     padding-left: 16px;
+    line-height: 2em;
 }
 div.about{
     margin-top: 7em;
@@ -34,12 +36,14 @@ div.about{
 }
 .about p{
     padding-left: 2em;
+    line-height: 2em;
 }
 footer{
    margin-top: 4em;
 }
 footer>p{
     padding-left: 2em;
+    line-height: 2em;
 }
 div.footer{
     text-align: center;
